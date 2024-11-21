@@ -33,13 +33,13 @@ This experiment involves creating an AWS account, configuring security settings 
 ### ROOT USER:
 ![WhatsApp Image 2024-11-21 at 11 30 37_01e5d1de](https://github.com/user-attachments/assets/5c145276-1811-449b-a625-5f07b2b5dc1e)
 
-![WhatsApp Image 2024-11-21 at 11 30 37_c45eaa4e](https://github.com/user-attachments/assets/0f440685-65dc-446f-952e-84665e608ad6)
+![WhatsApp Image 2024-11-21 at 11 30 37_c724578a](https://github.com/user-attachments/assets/573b0eca-35e2-4fa4-b3f7-90ab08485e8b)
 
 
  ### IAM USER:
  ![{5305B003-C9DF-4C2F-8091-F692028E2449}](https://github.com/user-attachments/assets/f5f23e89-5bfc-477e-8adf-151e0571e5b0)
 
- ![Screenshot 2024-11-20 180419](https://github.com/user-attachments/assets/87fe2841-cdea-4070-962c-d4228d5314f0)
+![Screenshot 2024-09-26 113933](https://github.com/user-attachments/assets/930c4845-7197-4517-aca9-ca763c09535a)
 
 
 
